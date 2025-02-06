@@ -15,7 +15,7 @@ CREATE TABLE [payment_history] ("id" integer PRIMARY KEY,"order_id" integer,"pay
 
 const BOT_TOKEN = 'TokenBot'; // token robot az bot father
 const ZARINPAL_MERCHANT_ID = 'merchantidzarinpal'; // az zarinpal begirid
-const ADMINS = ["Bhnm99", "admin2"]; // ID admin ha bedone @
+const ADMINS = ["asrnovin_ir", "admin2"]; // ID admin ha bedone @
 const BOT_ID = "fileforooshiman_bot"; // ID robot bedone @
 const TIME_ZONE = "Asia/Tehran"; // time zone baraye payment hisotry
 const ZARINPAL_TEST_MODE = true; // test it with sandbox
